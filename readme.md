@@ -1,28 +1,19 @@
-# This is a large heading
+# Rabindra Kumar Behera
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Kolkata, in the state of West Bengal, in India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Two of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *RHCSA/RHCE* by Jang
+- *The Guide* by R K Narayan
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Taj
+2. ITC Grand
